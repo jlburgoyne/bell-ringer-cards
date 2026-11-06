@@ -1,0 +1,315 @@
+{
+ "title": "Semicolons and Colons (scaffolded)",
+ "grades": "10-11",
+ "cards": [
+  {
+   "focus": "Semicolon between two sentences",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "The bus was late; we missed first period.",
+    "The bus was late; and we missed first period."
+   ],
+   "answer": "A",
+   "accept": "A semicolon replaces the conjunction. With \"and\" added, the sentence needs a comma instead: \"late, and we.\""
+  },
+  {
+   "focus": "Fixing a comma splice",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "Our team practiced all week, we still lost on Friday.",
+    "Our team practiced all week; we still lost on Friday."
+   ],
+   "answer": "B",
+   "accept": "Two complete sentences can't be joined with only a comma. That's a comma splice."
+  },
+  {
+   "focus": "Semicolon with however",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "The roads were icy, however; school stayed open.",
+    "The roads were icy; however, school stayed open."
+   ],
+   "answer": "B",
+   "accept": "The semicolon goes before the transition word and a comma after it."
+  },
+  {
+   "focus": "Placing the semicolon",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "The library closes at three the computer lab stays open until five.",
+   "prompt": "Where does the semicolon belong?",
+   "choices": [
+    "after \"closes\"",
+    "after \"three\"",
+    "after \"lab\"",
+    "after \"open\""
+   ],
+   "answer": "B",
+   "accept": "\"The library closes at three\" and \"the computer lab stays open until five\" are both complete sentences; the semicolon goes between them."
+  },
+  {
+   "focus": "What a semicolon can join",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which pair could be joined with a semicolon?",
+   "choices": [
+    "Because the game ran late / we got home at midnight",
+    "After the game / the long drive home",
+    "The game ran late / we got home at midnight",
+    "The game ran late / and the drive home"
+   ],
+   "answer": "C",
+   "accept": "Only C has a complete sentence on both sides. A starts with \"because,\" so its first half can't stand alone."
+  },
+  {
+   "focus": "Semicolons in a list",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence punctuates the list correctly?",
+   "choices": [
+    "We visited Utica, New York; Syracuse, New York; and Rochester, New York.",
+    "We visited Utica, New York, Syracuse, New York, and Rochester, New York."
+   ],
+   "answer": "A",
+   "accept": "When list items already contain commas, semicolons separate the items so readers can tell where each one ends."
+  },
+  {
+   "focus": "Colon before a list",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "Bring three things to the exam: a pencil, an eraser, and your ID.",
+    "Bring: a pencil, an eraser, and your ID."
+   ],
+   "answer": "A",
+   "accept": "A colon needs a complete sentence before it. \"Bring\" alone can't stand as a sentence."
+  },
+  {
+   "focus": "Colon before a list",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "The recipe needs: flour, sugar, and eggs.",
+    "The recipe needs three ingredients: flour, sugar, and eggs."
+   ],
+   "answer": "B",
+   "accept": "\"The recipe needs\" is incomplete without its object; \"The recipe needs three ingredients\" is a complete sentence."
+  },
+  {
+   "focus": "Colon before an explanation",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "Maya had one goal for the season; a spot on the varsity team.",
+    "Maya had one goal for the season: a spot on the varsity team."
+   ],
+   "answer": "B",
+   "accept": "What follows isn't a complete sentence, so a semicolon can't introduce it. A colon introduces the explanation."
+  },
+  {
+   "focus": "Using a colon correctly",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence uses a colon correctly?",
+   "choices": [
+    "My favorite authors are: Stephen King and Jason Reynolds.",
+    "The forecast called for one thing: snow.",
+    "We left early because: the roads were bad.",
+    "The trip included: hiking, fishing, and canoeing."
+   ],
+   "answer": "B",
+   "accept": "Only B has a complete sentence before the colon. In A, C, and D, the colon splits a sentence in the middle."
+  },
+  {
+   "focus": "Choosing the mark",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "The coach posted the starting lineup ___ Jordan, Kayla, Ben, Luis, and Mia.",
+   "prompt": "Which mark belongs in the blank?",
+   "choices": [
+    "comma",
+    "semicolon",
+    "colon",
+    "no mark"
+   ],
+   "answer": "C",
+   "accept": "\"The coach posted the starting lineup\" is complete, and the names that follow are the list it introduces."
+  },
+  {
+   "focus": "Choosing the mark",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "The power went out at eight ___ it came back on at midnight.",
+   "prompt": "Which mark belongs in the blank?",
+   "choices": [
+    "colon",
+    "comma",
+    "no mark",
+    "semicolon"
+   ],
+   "answer": "D",
+   "accept": "Two complete sentences, and the second doesn't explain the first, so a semicolon joins them. A comma would make a comma splice."
+  },
+  {
+   "focus": "Semicolon with therefore",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "I forgot my calculator; therefore, I borrowed one from Sam.",
+    "I forgot my calculator, therefore I borrowed one from Sam."
+   ],
+   "answer": "A",
+   "accept": "\"Therefore\" can't join two sentences by itself. Use a semicolon before it and a comma after it."
+  },
+  {
+   "focus": "Finding the error",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence has a punctuation error?",
+   "choices": [
+    "The fair opens Friday; tickets are five dollars.",
+    "We need two volunteers: one to sell tickets and one to park cars.",
+    "The barn was old; but it was still standing.",
+    "Bring the following: boots, gloves, and a hat."
+   ],
+   "answer": "C",
+   "accept": "With \"but,\" use a comma: \"old, but it was.\" A semicolon replaces the conjunction; it doesn't go with one."
+  },
+  {
+   "focus": "Semicolon with a dependent clause",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence uses a semicolon correctly?",
+   "choices": [
+    "Although it rained; the game went on.",
+    "The game went on; although it rained.",
+    "It rained all afternoon; the game went on anyway.",
+    "It rained all afternoon; and the game went on."
+   ],
+   "answer": "C",
+   "accept": "\"Although it rained\" can't stand alone, so A and B are wrong. D adds \"and,\" which needs a comma, not a semicolon."
+  },
+  {
+   "focus": "Semicolons in a list",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "prompt": "Which sentence is punctuated correctly?",
+   "choices": [
+    "The finalists were Ava, a junior, Liam, a sophomore, and Noor, a senior.",
+    "The finalists were Ava, a junior; Liam, a sophomore; and Noor, a senior."
+   ],
+   "answer": "B",
+   "accept": "Each item already has a comma (\"Ava, a junior\"), so semicolons separate the three finalists. Without them it looks like six people."
+  },
+  {
+   "focus": "Combining two sentences",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "The bridge was closed. Drivers took the long way.",
+   "prompt": "Which combines the two sentences correctly?",
+   "choices": [
+    "The bridge was closed, drivers took the long way.",
+    "The bridge was closed: drivers, took the long way.",
+    "The bridge was closed; drivers took the long way.",
+    "The bridge was closed; and drivers took the long way."
+   ],
+   "answer": "C",
+   "accept": "A semicolon joins two complete sentences on its own. A is a comma splice; D adds \"and.\""
+  },
+  {
+   "focus": "Why a colon works",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "We had one problem: the bus never came.",
+   "prompt": "Why is the colon correct here?",
+   "choices": [
+    "It comes before a list.",
+    "It joins two sentences with \"and.\"",
+    "It always follows the word \"problem.\"",
+    "A complete sentence comes before it, and what follows explains it."
+   ],
+   "answer": "D",
+   "accept": "\"We had one problem\" is complete, and \"the bus never came\" explains what the problem was."
+  },
+  {
+   "focus": "Why semicolons work",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "The tour stops in Albany, New York; Burlington, Vermont; and Boston, Massachusetts.",
+   "prompt": "Why does this list use semicolons?",
+   "choices": [
+    "Each item is a complete sentence.",
+    "The list has more than two items.",
+    "City names always take semicolons.",
+    "The items already contain commas."
+   ],
+   "answer": "D",
+   "accept": "Each city-and-state item has its own comma, so semicolons mark where one item ends."
+  },
+  {
+   "focus": "Revising a comma splice",
+   "standard": "L2",
+   "regents": [
+    "CC"
+   ],
+   "passage": "Jon works late, he rarely studies.",
+   "prompt": "Which revision is correct?",
+   "choices": [
+    "Jon works late: and he rarely studies.",
+    "Jon works late; and he rarely studies.",
+    "Jon works late, he, rarely studies.",
+    "Jon works late; he rarely studies."
+   ],
+   "answer": "D",
+   "accept": "A semicolon joins the two complete sentences. A and B add \"and\" after the mark; C adds commas that don't belong."
+  }
+ ]
+}

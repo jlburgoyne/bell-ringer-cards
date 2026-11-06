@@ -1,0 +1,258 @@
+[
+ {
+  "ID": "P1",
+  "Term": "Reading Comprehension",
+  "Group": "Exam Part",
+  "Exam Part": "Part 1",
+  "What it means": "24 four-choice questions on one literary text, one poem, and one nonfiction text. 24 of 56 weighted credits.",
+  "Source": "Educator Guide: test design"
+ },
+ {
+  "ID": "P2",
+  "Term": "Argument Essay",
+  "Group": "Exam Part",
+  "Exam Part": "Part 2",
+  "What it means": "Argue a claim using at least three of four sources. 24 of 56 weighted credits.",
+  "Source": "Educator Guide: test design"
+ },
+ {
+  "ID": "P3",
+  "Term": "Text-Analysis Response",
+  "Group": "Exam Part",
+  "Exam Part": "Part 3",
+  "What it means": "At least two paragraphs on how a writing strategy develops a central idea or theme. 8 of 56 weighted credits.",
+  "Source": "Educator Guide: test design"
+ },
+ {
+  "ID": "CA",
+  "Term": "Content and Analysis",
+  "Group": "Rubric criterion",
+  "Exam Part": "Parts 2, 3",
+  "What it means": "Part 2: the claim and the analysis of sources, including the counterclaim. Part 3: the central idea and the strategy analysis.",
+  "Source": "Part 2 and Part 3 rubrics"
+ },
+ {
+  "ID": "CE",
+  "Term": "Command of Evidence",
+  "Group": "Rubric criterion",
+  "Exam Part": "Parts 2, 3",
+  "What it means": "Choosing relevant evidence and using it to support ideas.",
+  "Source": "Part 2 and Part 3 rubrics"
+ },
+ {
+  "ID": "COS",
+  "Term": "Coherence, Organization, and Style",
+  "Group": "Rubric criterion",
+  "Exam Part": "Parts 2, 3",
+  "What it means": "Focus on the task, organization of ideas, precise language, and sentence structure.",
+  "Source": "Part 2 and Part 3 rubrics"
+ },
+ {
+  "ID": "CC",
+  "Term": "Control of Conventions",
+  "Group": "Rubric criterion",
+  "Exam Part": "Parts 2, 3",
+  "What it means": "Grammar, usage, capitalization, punctuation, and spelling.",
+  "Source": "Part 2 and Part 3 rubrics"
+ },
+ {
+  "ID": "P1-EVID",
+  "Term": "Best supporting evidence",
+  "Group": "Task skill",
+  "Exam Part": "Part 1",
+  "What it means": "Choosing the part of the text that best supports a central idea or claim.",
+  "Source": "Educator Guide: Part 1 sample question"
+ },
+ {
+  "ID": "P2-CLAIM",
+  "Term": "Claim",
+  "Group": "Task skill",
+  "Exam Part": "Part 2",
+  "What it means": "Stating a precise position on the question.",
+  "Source": "Part 2 directions"
+ },
+ {
+  "ID": "P2-COUNTER",
+  "Term": "Counterclaim",
+  "Group": "Task skill",
+  "Exam Part": "Part 2",
+  "What it means": "Distinguishing the claim from alternate or opposing claims.",
+  "Source": "Part 2 directions and rubric"
+ },
+ {
+  "ID": "P2-SOURCES",
+  "Term": "Evidence from multiple sources",
+  "Group": "Task skill",
+  "Exam Part": "Part 2",
+  "What it means": "Supporting the claim with evidence from at least three of the four sources.",
+  "Source": "Part 2 directions"
+ },
+ {
+  "ID": "P2-CITE",
+  "Term": "Citing by source and line",
+  "Group": "Task skill",
+  "Exam Part": "Part 2",
+  "What it means": "Identifying each source by number and line or graphic (e.g., Source 2, lines 4-6).",
+  "Source": "Part 2 directions"
+ },
+ {
+  "ID": "FORMAL",
+  "Term": "Formal style",
+  "Group": "Task skill",
+  "Exam Part": "Parts 2, 3",
+  "What it means": "Formal tone with no casual language or abbreviations, except in direct quotations.",
+  "Source": "Part 2 and Part 3 directions"
+ },
+ {
+  "ID": "P3-CENTRAL",
+  "Term": "Central idea or theme",
+  "Group": "Task skill",
+  "Exam Part": "Part 3",
+  "What it means": "Identifying a central idea or theme in the text.",
+  "Source": "Part 3 directions"
+ },
+ {
+  "ID": "P3-STRATEGY",
+  "Term": "Writing strategy analysis",
+  "Group": "Task skill",
+  "Exam Part": "Part 3",
+  "What it means": "Analyzing how the author's use of one writing strategy develops the central idea or theme.",
+  "Source": "Part 3 directions"
+ },
+ {
+  "ID": "P3-LINK",
+  "Term": "Linking evidence to the central idea",
+  "Group": "Task skill",
+  "Exam Part": "Part 3",
+  "What it means": "Connecting specific, relevant evidence to the central idea or theme.",
+  "Source": "Part 3 rubric"
+ },
+ {
+  "ID": "WS-ALLUSION",
+  "Term": "Allusion",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-CAUSE",
+  "Term": "Cause/effect",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-CHARACTER",
+  "Term": "Characterization",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-CONFLICT",
+  "Term": "Conflict",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-DIALOGUE",
+  "Term": "Dialogue",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-IRONY",
+  "Term": "Irony",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-LANGUAGE",
+  "Term": "Language use",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-METAPHOR",
+  "Term": "Metaphor",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-MOOD",
+  "Term": "Mood",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-SIMILE",
+  "Term": "Simile",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-PERSONIFY",
+  "Term": "Personification",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-POV",
+  "Term": "Point of view",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-SETTING",
+  "Term": "Setting",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-STRUCTURE",
+  "Term": "Structure",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-SYMBOL",
+  "Term": "Symbolism",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ },
+ {
+  "ID": "WS-TONE",
+  "Term": "Tone",
+  "Group": "Writing strategy",
+  "Exam Part": "Part 3",
+  "What it means": "",
+  "Source": "Part 3 directions: list of writing strategies"
+ }
+]
